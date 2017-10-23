@@ -1,0 +1,34 @@
+body {
+  background : #3C6478;
+  color: #FFF;
+}
+
+.appTitle {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 60px;
+}
+
+.timeText{
+  font-family: 'Orbitron', sans-serif;
+}
+
+.toggleBlock{
+  margin: auto;
+  width: 50%;
+  padding: 3%;
+  font-size: 30px;
+}
+
+.timeToggle {
+  display: inline;
+  width: 70%;
+  padding: 5%;
+}
+
+#pomClock {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 60px;
+  background: black;
+  padding-top: 2%;
+  border: 5px solid gray;
+}
